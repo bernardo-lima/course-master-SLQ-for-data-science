@@ -5,7 +5,7 @@ This repository contains the code I used to solve the assigments of the course [
 All code is my own, and, sometimes, my solution is different than the one from the course. In some instances, I present my and the course’s solutions to a specific problem and comment on the differences. 
 The code for each section of the course is located in a separate file.
 
-[Section 1: Database Basics](Section-1)
+[Section 1: Database Basics](Section-1.sql)
 
 [Section 2: SQL Query Basics](Section-2) 
 
