@@ -7,20 +7,20 @@ The code for each section of the course is located in a separate file.
 
 [Section 1: Database Basics](Section-1.sql)
 
-[Section 2: SQL Query Basics](Section-2) 
+[Section 2: SQL Query Basics](Section-2.sql) 
 
-[Section 3: Using Functions](Section-3) 
+[Section 3: Using Functions](Section-3.sql) 
 
-[Section 4: Grouping Data and Computing Aggregates](Section-4) 
+[Section 4: Grouping Data and Computing Aggregates](Section-4.sql) 
 
-[Section 5: Using Subqueries](Section-5) 
+[Section 5: Using Subqueries](Section-5.sql) 
 
-[Section 6: Using the CASE Clause in Interesting Ways](Section-6) 
+[Section 6: Using the CASE Clause in Interesting Ways](Section-6.sql) 
 
-[Section 7: Advanced Query Techniques using Correlated](Section-7) 
+[Section 7: Advanced Query Techniques using Correlated](Section-7.sql) 
 
-[Section 8: Working with Multiple Tables](Section-8) 
+[Section 8: Working with Multiple Tables](Section-8.sql) 
 
-[Section 9: Window Functions for Analytics](Section-9) 
+[Section 9: Window Functions for Analytics](Section-9.sql) 
 
-[Section 10: Difficult Query Challenges](Section-10)
+[Section 10: Difficult Query Challenges](Section-10.sql)
